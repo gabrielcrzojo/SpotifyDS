@@ -35,3 +35,5 @@ groove-analytics-lab/dist/
 *.njsproj
 *.sln
 *.sw?
+
+spotify_dataset.json
